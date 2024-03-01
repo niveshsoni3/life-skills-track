@@ -30,3 +30,17 @@ Think of an EMB as a central hub managing all message communication within an en
 - **Focus:** Queues handle point-to-point communication, EMBs handle complex message flows.
 - **Features:** Queues are simpler, EMBs offer advanced features like routing and security.
 - **Use cases:** Queues for basic message exchange, EMBs for complex enterprise integrations.
+
+## References
+
+### Messaging Queues:
+
+- [RabbitMQ Documentation](https://rabbitmq-website.pages.dev/docs/documentation)
+- [Apache Kafka Documentation](https://kafka.apache.org/20/documentation.html)
+- [Amazon SQS Documentation](https://docs.aws.amazon.com/sqs/)
+
+### Enterprise Message Bus (EMB):
+
+- [MuleSoft Anypoint Platform Documentation](https://docs.mulesoft.com/general/)
+- [Software AG webMethods Integration Platform Documentation](https://documentation.softwareag.com/webmethods/integration_server/pie10-11/index.htm)
+
